@@ -1,5 +1,5 @@
 # ARSContactLog
-This is the Amateur Radio Station Contect Log. My callsign is BD8FNZ. 73~
+This is the Amateur Radio Station Contact Log. My callsign is BD8FNZ. 73~
 
 <table style="width:100%;text-align:center;">
   <tr style="font-weight:bold;">
@@ -33,24 +33,24 @@ This is the Amateur Radio Station Contect Log. My callsign is BD8FNZ. 73~
     <td>已收</td>
 		<td></td>
 	</tr>
-  <!-- tr>
-    <td>2025.03.11</td>
-    <td>BD8BTP</td>
+  <tr>
+    <td>2025.03.19</td>
+    <td>BD8FTK</td>
     <td>439.450MHz</td>
     <td>FM</td>
     <td>59</td>
-    <td>59</td>
+    <td>57</td>
     <td>5W</td>
-    <td>25W</td>
-    <td>东安湖</td>
-    <td>即时通D9000</td>
-    <td>钻石770车苗</td>
-    <td>2M</td>
-    <td>勾</td>
-    <td>勾</td>
+    <td>5W</td>
+    <td>东郊记忆</td>
+    <td>泉盛UV-K6</td>
+    <td>原装天线</td>
+    <td></td>
+    <td></td>
+    <td></td>
 		<td>-</td>
 	</tr>
-  <tr>
+  <!-- tr>
     <td>2025.03.11</td>
     <td>BD8BTP</td>
     <td>439.450MHz</td>
