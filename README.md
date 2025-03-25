@@ -6,3 +6,4 @@ This is my Amateur Radio Station Contact Log. My callsign is BD8FNZ. VY73~
 | 2025-03-18T10:30:00Z | BD8FTK | 5W | FM | 57 | 439.450MHz | 东郊记忆 | 泉盛UV-K6 | 原装天线 | - |
 | 2025-03-21T16:13:00Z | BD8FNI | 5W | FM | 59 | 439.450MHz | 天府五街 | 八重洲4XR | 原装天线 | - |
 | 2025-03-21T16:42:00Z | BD8DMD | 5W | FM | 59 | 439.450MHz | 兴隆湖 | 八重洲1807 | 老鹰770 | - |
+| 2025-03-25T10:04:00Z | BD8BTP | 25W | FM | 59 | 439.450MHz | 天府一街 | 即时通D9000 | 钻石73SJ | - |
